@@ -101,7 +101,7 @@ function Header({ showForm, setShowForm }) {
   return (
     <header className="header">
       <div className="logo">
-        <img src="logo.png" alt="image" />
+        <img src="public\logo.png" alt="image" />
         <h1>{appTitle}</h1>
       </div>
       <button
